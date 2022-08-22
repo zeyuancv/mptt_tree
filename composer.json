@@ -1,0 +1,19 @@
+{
+    "name": "mycherry/tree",
+    "description": "this is a mptt tree",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mycherry\\Tree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuancv",
+            "email": "11424931+zeyuancv@user.noreply.gitee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
